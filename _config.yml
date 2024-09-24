@@ -7,7 +7,7 @@ title: "Tailpages: Tailwind + Github Pages"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
-theme-color: pink # indigo|yellow|pink|green|stone|
+theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Michael Ray
